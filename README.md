@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/kerem tıngır](https://www.linkedin.com/in/kerem-tıngır-952629246/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerem tıngır" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kerem-t%C4%B1ng%C4%B1r-952629246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerem tıngır" height="30" width="40" /></a>
 <a href="https://instagram.com/k.tngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.tngr" height="30" width="40" /></a>
 </p>
 
